@@ -13,7 +13,7 @@ def voice_interface():
 
     ## XXX:  Set the OpenAI API key
     openai.api_key = "YOUR_API_KEY"
-    openai.api_key = "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"
+  
 
     while True:
         try:
